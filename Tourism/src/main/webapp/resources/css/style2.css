@@ -1,0 +1,17 @@
+body
+{
+	  background: #e9892e;
+  text-align: center;
+  padding: 25px 10px 5px;
+}
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+
+
